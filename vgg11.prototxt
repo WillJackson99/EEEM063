@@ -1,6 +1,4 @@
-# Enter your network definition here.
-# Use Shift+Enter to update the visualization.
-name: "VGG_ILSVRC_16_layers"
+name: "VGG11"
 layer {
   name: "train-data"
   type: "Data"
